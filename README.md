@@ -1,5 +1,6 @@
 
 🚀 Amazon Sales Analysis Power BI Dashboard 
+
 📈Welcome to the Power BI project repository focusing on a comprehensive Sales Analysis of Amazon Products.
 This solution showcases the complete data workflow—from data cleaning and modeling to advanced DAX usage and dynamic visualization.
 The final dashboard is designed to be dynamic and interactive.
